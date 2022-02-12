@@ -1,0 +1,17 @@
+canvas
+{
+    border: 5px solid rgb(71, 21, 163);
+    border-radius: 20px;
+    box-shadow: 10px 12px 13px rgb(214, 52, 174);
+   margin-top: 110px;
+
+}
+.heading{
+    width: 100%;
+    font-size: 25px;
+}
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
